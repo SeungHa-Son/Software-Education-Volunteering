@@ -18,7 +18,7 @@ and focus on **teaching Python programming fundamentals** through hands-on lesso
 - 소속: 대림대학교 AI시스템학과
 - 팀명: 코드스쿨
 - 봉사자: 손승하
-- 교육 대상: 초등학교 6학년 ~ 중학교 1·2·3학년
+- 교육 대상: 초등학생 ~ 중학생
 - 교육 과목: **파이썬(Python) 기초**
 
 ---
